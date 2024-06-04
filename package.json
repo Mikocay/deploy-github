@@ -1,7 +1,7 @@
 {
   "homepage": "https://github.com/Mikocay/deploy-github",
   "name": "swp391-debo-fe",
-  "private": false,
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
